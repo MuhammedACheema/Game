@@ -1,1 +1,2 @@
-This is a C++ app that compares two basketball players weigh their accomplishments, and determine who's the better player
+This is a C++ app that compares two basketball players weighs their accomplishments, and determines who's the better player
+Let's finally find out who's better Lebron or MJ
